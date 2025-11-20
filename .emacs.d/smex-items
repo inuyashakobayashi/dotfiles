@@ -1,0 +1,24 @@
+
+;; ----- smex-history -----
+(
+ org-agenda
+ doc-view-mode
+ list-packages
+ term
+ eshell
+ shell
+ emacs-lisp-mode
+)
+
+;; ----- smex-data -----
+(
+ (version . 1)
+ (ls-lisp--dired . 1)
+ (emacs-lisp-mode . 3)
+ (list-packages . 6)
+ (shell . 1)
+ (eshell . 4)
+ (term . 1)
+ (doc-view-mode . 1)
+ (org-agenda . 1)
+)

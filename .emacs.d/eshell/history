@@ -1,0 +1,28 @@
+ls
+./run-mapping-hui
+./run-mapping-gui
+./run-mapping-gui.sh
+cd ..
+cd ..
+cd ..
+cd ~/IdeaProjects/Anki-car/
+./run-mapping-gui.sh 
+clear 
+ls
+mvn clean package
+mvn clean package
+BLUETOOTH_TROUBLESHOOTING.md  dependency-reduced-pom.xml   pom.xml              src
+clear	
+java -versio
+java -version
+javac -version
+javac: command not foundls
+ls
+clear 
+ls
+java -version
+javac -version
+ls
+firefox index.html 
+q
+exit

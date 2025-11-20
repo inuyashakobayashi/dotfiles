@@ -1,0 +1,31 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/ying/Dokumente/" . "Agenda/")
+ ("/home/ying/" . "Dokumente/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/ying/Dokumente/Agenda/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "myplan.org"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/ying/Dokumente/Agenda/" (26911 16595 124208 565000) "myplan.org" "../" "./")
+
+ ("/home/ying/Dokumente/" (26911 13727 744655 665000) "Agenda/" "ECMA-262_16th_edition_june_2025.pdf" "../" "./")
+
+ ("/home/ying/" (26911 13762 416676 760000) ".vscode-oss/" ".gtkrc-2.0" "IdeaProjects/" ".npm/" ".gemini/" ".pki/" ".antigravity/" ".emacs.d/" ".gnupg/" "backup/" ".bash_history" ".mozilla/" ".var/" "Videos/" "Bilder/" "Musik/" "Dokumente/" "Öffentlich/" "Vorlagen/" "Downloads/" "Schreibtisch/" ".cache/" ".config/" ".local/" ".bashrc" ".bash_profile" ".bash_logout" "../" "./")
+
+ ("/home/ying/.emacs.d/" (26911 15148 280116 70000) "#diary#" "custom.el" "#custom.el#" ".mc-lists.el" "init.el" "init.el~" ".emacs.snippets/" ".emacs.rc/" ".emacs.local/" "eln-cache/" "transient/" "elpa/" "auto-save-list/" "smex-items" "eshell/" "url/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
