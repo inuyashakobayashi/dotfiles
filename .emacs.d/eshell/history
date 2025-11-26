@@ -26,3 +26,30 @@ ls
 firefox index.html 
 q
 exit
+which typescript-language-server
+npm install -g typescript typescript-language-server
+sudo npm install -g typescript typescript-language-server
+clear 
+which typescript-language-server
+ls
+emacs work-with-variables.js 
+cd
+clear 
+ls
+which bluetoothd
+bluetoothctl --version
+man mkdir
+ls
+cd IdeaProjects/
+ls
+git clone git@github.com:anki/drive-sdk.git
+ls
+rm Anki-car.tar.xz 
+ls
+cd drive-sdk/
+ls
+clear 
+ls
+gemini
+clear 
+ls

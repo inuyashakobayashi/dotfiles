@@ -2,12 +2,12 @@
 ;; ----- smex-history -----
 (
  org-agenda
+ eshell
+ eglot
  doc-view-mode
  list-packages
  term
- eshell
  shell
- emacs-lisp-mode
 )
 
 ;; ----- smex-data -----
@@ -17,8 +17,9 @@
  (emacs-lisp-mode . 3)
  (list-packages . 6)
  (shell . 1)
- (eshell . 4)
+ (eshell . 6)
  (term . 1)
  (doc-view-mode . 1)
- (org-agenda . 1)
+ (org-agenda . 2)
+ (eglot . 2)
 )

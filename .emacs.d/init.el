@@ -336,3 +336,4 @@ compilation-error-regexp-alist-alist
                1 2 (4) (5)))
 
 (load-file custom-file)
+(server-start)

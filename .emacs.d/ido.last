@@ -2,27 +2,36 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/ying/dotfiles/" . ".emacs.d/")
  ("/home/ying/Dokumente/" . "Agenda/")
- ("/home/ying/" . "Dokumente/")
+ ("/home/ying/" . "dotfiles/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/ying/dotfiles/.emacs.d/"
  "/home/ying/Dokumente/Agenda/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "init.el"
  "myplan.org"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/ying/dotfiles/.emacs.d/" (26918 7607 477416 538000) "custom.el" "diary" "ido.last" "#diary#" "#custom.el#" ".mc-lists.el" "init.el" "init.el~" ".emacs.snippets/" ".emacs.rc/" ".emacs.local/" "eln-cache/" "transient/" "elpa/" "auto-save-list/" "smex-items" "eshell/" "url/" "../" "./")
+
+ ("/home/ying/dotfiles/" (26911 30673 25965 800000) ".git/" ".emacs.d/" "../" "./")
+
+ ("/home/ying/" (26918 3199 1597 957000) ".bash_history" "#*message*-20251122-012604#" ".jdks/" ".m2/" ".java/" "go/" ".ssh/" ".gitconfig" ".emacs.d/" "dotfiles/" ".vscode-oss/" ".gtkrc-2.0" "IdeaProjects/" ".npm/" ".gemini/" ".pki/" ".antigravity/" ".gnupg/" "backup/" ".mozilla/" ".var/" "Videos/" "Bilder/" "Musik/" "Dokumente/" "Öffentlich/" "Vorlagen/" "Downloads/" "Schreibtisch/" ".cache/" ".config/" ".local/" ".bashrc" ".bash_profile" ".bash_logout" "../" "./")
+
+ ("/home/ying/Dokumente/" (26913 1931 48808 296000) "dbus-java.pdf" "Core_V4.0.pdf" "GATT_Specification_Supplement.pdf" "lernen-js/" "Agenda/" "ECMA-262_16th_edition_june_2025.pdf" "../" "./")
+
+ ("/home/ying/IdeaProjects/Anki-car/src/main/java/de/ostfalia/ble/" (26901 62722 0 0) "BluetoothGattService.java" "BluetoothDevice.java" "BluetoothGattCharacteristic.java" "BluetoothManager.java" "../" "./")
+
  ("/home/ying/Dokumente/Agenda/" (26911 16595 124208 565000) "myplan.org" "../" "./")
-
- ("/home/ying/Dokumente/" (26911 13727 744655 665000) "Agenda/" "ECMA-262_16th_edition_june_2025.pdf" "../" "./")
-
- ("/home/ying/" (26911 13762 416676 760000) ".vscode-oss/" ".gtkrc-2.0" "IdeaProjects/" ".npm/" ".gemini/" ".pki/" ".antigravity/" ".emacs.d/" ".gnupg/" "backup/" ".bash_history" ".mozilla/" ".var/" "Videos/" "Bilder/" "Musik/" "Dokumente/" "Öffentlich/" "Vorlagen/" "Downloads/" "Schreibtisch/" ".cache/" ".config/" ".local/" ".bashrc" ".bash_profile" ".bash_logout" "../" "./")
 
  ("/home/ying/.emacs.d/" (26911 15148 280116 70000) "#diary#" "custom.el" "#custom.el#" ".mc-lists.el" "init.el" "init.el~" ".emacs.snippets/" ".emacs.rc/" ".emacs.local/" "eln-cache/" "transient/" "elpa/" "auto-save-list/" "smex-items" "eshell/" "url/" "../" "./")
 )
